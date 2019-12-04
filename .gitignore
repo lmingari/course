@@ -1,2 +1,6 @@
-./references
-./scripts
+references
+scripts
+.ipynb_checkpoints
+
+*nc
+*grib
